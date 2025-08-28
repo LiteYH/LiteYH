@@ -25,7 +25,7 @@
 
 - **Full-Stack Development** (React, Node.js, SQL, Javascript)
 - **Java** (Object-Oriented Programming, Data Structures, Algorithms)
-- **Machine Learning** (Python, Scikit-learn, TensorFlow)
+- **Machine Learning** (Python, Decision Tree, Support Vector Machine)
 - **Blockchain Development** (Sui Blockchain, Smart Contracts)
 - **Version Control**: Git & GitHub
 
