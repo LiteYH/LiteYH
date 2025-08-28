@@ -23,7 +23,7 @@
 
 ## 🔧 Tech Stack & Skills
 
-- **Full-Stack Development** (React, Node.js, Express, MongoDB)
+- **Full-Stack Development** (React, Node.js, SQL, Javascript)
 - **Java** (Object-Oriented Programming, Data Structures, Algorithms)
 - **Machine Learning** (Python, Scikit-learn, TensorFlow)
 - **Blockchain Development** (Sui Blockchain, Smart Contracts)
@@ -32,6 +32,6 @@
 ---
 
 ## 📫 Connect With Me
-- [LinkedIn](https://www.linkedin.com/yi-hao-ong-2865ab330)
+- [LinkedIn](https://www.linkedin.com/in/yi-hao-ong-2865ab330/)
 - [GitHub](https://github.com/LiteYH)
 
