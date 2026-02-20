@@ -15,10 +15,11 @@
 | Competition                               | Achievement                         |
 |-------------------------------------------|-------------------------------------|
 | **DevMatch SUI Blockchain 2025**         | 🥇 1st Place (Best On-Chain Marketplace) |
-| **UM Hackathon 2025 (Quantitative Trading)** | Participant                        |
+| **Kabel Hackathon 2025**                     | 🥇Champion                          |
 | **Future Ready Hackathon 2025**          | 🥈1st Runner Up                         |
 | **CodeNection 2025**                     | Participant                            |
-| **Kabel Hackathon 2025**                     | 🥇Champion                          |
+| **UM Hackathon 2025 (Quantitative Trading)** | Participant                        |
+| **L'Oréal Datathon 2025**                     | Participant                          |
 
 
 ---
