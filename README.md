@@ -18,8 +18,12 @@
 | **Kabel Hackathon 2025**                     | 🥇Champion                          |
 | **Future Ready Hackathon 2025**          | 🥈1st Runner Up                         |
 | **CodeNection 2025**                     | Participant                            |
-| **UM Hackathon 2025 (Quantitative Trading)** | Participant                        |
+| **UM Hackathon 2025** | Participant                        |
 | **L'Oréal Datathon 2025**                     | Participant                          |
+| **TnG FinHack 2026**                     | Participant                          |
+| **UM Hackathon 2026**                     | Participant                          |
+
+
 
 
 ---
