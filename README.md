@@ -1,12 +1,12 @@
 # 👨‍💻 Hi there, I'm Ong Yi Hao!
 
-👨‍🎓 I am a **Year 2 Computer Science (Artificial Intelligence)** student at **Universiti Malaya**, passionate about exploring and building innovative AI-driven solutions.
+I am a **Year 2 Computer Science (Artificial Intelligence)** student at **Universiti Malaya**, passionate about exploring and building innovative AI-driven solutions.
 
-🤖 My interests include **Machine Learning**, **Deep Learning**, **Blockchain**, and **Intelligent Systems**. I enjoy leveraging technology to solve real-world problems and create meaningful impact.
+My interests include **Machine Learning**, **Deep Learning**, **Blockchain**, and **Intelligent Systems**. I enjoy leveraging technology to solve real-world problems and create meaningful impact.
 
-💻 I have experience in **Full-Stack Development** and love designing applications that integrate cutting-edge AI with robust software engineering practices.
+I have experience in **Full-Stack Development** and love designing applications that integrate cutting-edge AI with robust software engineering practices.
 
-🚀 My ultimate goal is to become an **AI Engineer** and contribute to developing transformative technologies that shape the future of industries and society.
+I'm interested in job fields such as **AI Engineering** and **Full-Stack Development**, which help shape the future of industries and society.
 
 ---
 
