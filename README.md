@@ -22,6 +22,8 @@
 | **L'Oréal Datathon 2025**                     | Participant                          |
 | **TnG FinHack 2026**                     | Participant                          |
 | **UM Hackathon 2026**                     | Participant                          |
+| **KitaHack 2026**                     | Participant                          |
+
 
 
 
