@@ -33,7 +33,7 @@ I'm interested in job fields such as **AI Engineering** and **Full-Stack Develop
 
 ## 🔧 Tech Stack & Skills
 
-- **Full-Stack Development** (React, Node.js, SQL, Javascript)
+- **Full-Stack Development** (React, Node.js, SQL, Javascript, FastAPI, LangChain, LangGraph)
 - **Java** (Object-Oriented Programming, Data Structures, Algorithms)
 - **Machine Learning** (Python, Decision Tree, Support Vector Machine)
 - **Blockchain Development** (Sui Blockchain, Smart Contracts)
