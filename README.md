@@ -19,6 +19,7 @@ I'm interested in job fields such as **AI Engineering** and **Full-Stack Develop
 | **Future Ready Hackathon 2025**          | 🥈1st Runner Up                         |
 | **CodeNection 2025**                     | Participant                            |
 | **UM Hackathon 2025** | Participant                        |
+| **EY Young Technology Professional Challenge 2025** | Participant                        |
 | **L'Oréal Datathon 2025**                     | Participant                          |
 | **TnG FinHack 2026**                     | Participant                          |
 | **UM Hackathon 2026**                     | Participant                          |
